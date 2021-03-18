@@ -38,7 +38,8 @@
                 "url": "/contact/",
                 "style": "button"
             }
-        ]
+        ],
+        "title": "Small Business Websites"
     },
     "footer": {
         "type": "footer",
