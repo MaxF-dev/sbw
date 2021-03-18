@@ -23,7 +23,7 @@
             },
             {
                 "type": "action",
-                "label": "Articles",
+                "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
             },
