@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: This is a Small Business Web Agency
     content: >
-      We design and develop high-performing small business websites. We work
+      We design and develop high-performing small business websites. Working
       closely with you to deliver inspiring work, which enables your company to
       grow. [Let's talk](/contact/).
   - type: portfolio_section
