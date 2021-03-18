@@ -67,26 +67,6 @@ sections:
             style: icon
             icon: instagram
             new_window: true
-      - type: grid_item
-        title: Parsley Montana
-        subtitle: 'Senior Designer, Motion Graphics'
-        image: images/team-4.png
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - type: action
-            label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - type: action
-            label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
   - type: cta_section
     section_id: cta
     title: Become a Team Player
