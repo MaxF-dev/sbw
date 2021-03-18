@@ -3,7 +3,6 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    image: images/about.jpg
     image_alt: Our team in the meeting room
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
