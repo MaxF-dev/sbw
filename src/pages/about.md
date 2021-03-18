@@ -47,26 +47,6 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      - type: grid_item
-        title: Gordon Norman
-        subtitle: Creative Producer
-        image: images/team-3.png
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - type: action
-            label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - type: action
-            label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
   - type: cta_section
     section_id: cta
     title: Become a Team Player
