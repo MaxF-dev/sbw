@@ -42,7 +42,7 @@ sections:
     section_id: services
     title: Services
     subtitle: What we do
-    col_number: three
+    col_number: two
     grid_items:
       - type: grid_item
         title: Web Design
