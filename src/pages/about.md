@@ -33,20 +33,6 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      - type: grid_item
-        title: Hilary Ouse
-        subtitle: 'Co-Founder, Creative Director'
-        image: images/team-2.png
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
-        actions:
-          - type: action
-            label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
   - type: cta_section
     section_id: cta
     title: Become a Team Player
