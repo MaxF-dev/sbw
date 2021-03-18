@@ -2,7 +2,7 @@
     "title": "Small Business Websites",
     "color_scheme": "light",
     "accent_color": "blue",
-    "base_font": "fraunces",
+    "base_font": "karla",
     "header": {
         "type": "header",
         "logo_alt": "Agency logo",
