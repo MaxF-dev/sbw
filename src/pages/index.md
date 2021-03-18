@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: We Work With Small Business Owners
+    title: This is a Small Business Web Agency
     content: >
       We work with small business owners that are struggling to attract
       customers online
