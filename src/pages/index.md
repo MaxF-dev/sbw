@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: This is a Small Business Web Agency
+    title: We Work With Small Business Owners
     content: >
       We design and develop high-performing small business websites. Working
       closely with you to deliver inspiring work, which enables your company to
