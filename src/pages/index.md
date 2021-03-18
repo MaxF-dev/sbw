@@ -56,7 +56,7 @@ sections:
           - Digital and experience strategy
           - Communication strategy
       - type: grid_item
-        title: Brand design
+        title: Digital Marketing
         image: images/service-2.svg
         content: |-
           - Brand development
