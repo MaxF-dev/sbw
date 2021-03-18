@@ -6,9 +6,8 @@ sections:
     section_id: hero
     title: We Work With Small Business Owners
     content: >
-      We design and develop high-performing small business websites. Working
-      closely with you to deliver inspiring work, which enables your company to
-      grow. [Let's talk](/contact/).
+      We work with small business owners that are struggling to attract
+      customers online
   - type: portfolio_section
     section_id: latest-projects
     title: Recent Work
